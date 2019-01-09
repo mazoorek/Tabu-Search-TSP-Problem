@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/git/OK/main.cpp
+iostream
+-
+vector
+-
+algorithm
+-
+fstream
+-
+cmath
+-
+fstream
+-
+ctime
+-
+limits
+-
+chrono
+-
+
